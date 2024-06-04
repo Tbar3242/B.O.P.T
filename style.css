@@ -3,16 +3,16 @@ body{
 }
 #day1 {
     margin-top: 50px;
-    width: 400px;
-    height: 120px;
+    width: 320px;
+    height: 96px;
     background: url("day1.png") no-repeat scroll 0 0 transparent;
     background-size: cover;
     cursor: pointer;
     border-radius: 12px;
 }
 #day2 {
-    width: 400px;
-    height: 120px;
+    width: 320px;
+    height: 96px;
     background: url("day2.png") no-repeat scroll 0 0 transparent;
     background-size: cover;
     cursor: pointer;
